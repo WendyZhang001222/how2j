@@ -1,0 +1,3 @@
+假设JDK的所在目录是：C:\Program Files\Java\jdk1.8.0_65，应该怎么调整配置
+只需要修改JAVA_HOME的配置即可，其他都不需要发生变化
+PATH也不需要发生变化，因为它引用的就是JAVA_HOME的路径
